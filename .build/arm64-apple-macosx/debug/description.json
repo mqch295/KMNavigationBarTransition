@@ -1,0 +1,180 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionPackageTests.xctest/Contents/MacOS/KMNavigationBarTransitionPackageTests",
+      "productName" : "KMNavigationBarTransitionPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.KMNavigationBarTransitionTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/Tests/KMNavigationBarTransitionTests/KMNavigationBarTransitionTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/KMSwizzle.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/KMWeakObjectContainer.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/NSObject+KMNavigationBarTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/UINavigationBar+KMNavigationBarTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/UINavigationController+KMNavigationBarTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/UIScrollView+KMNavigationBarTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/UIViewController+KMNavigationBarTransition.m.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "KMNavigationBarTransitionTests",
+      "moduleOutputPath" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionTests.swiftmodule",
+      "objects" : [
+        "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionTests.build/KMNavigationBarTransitionTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/KMNavigationBarTransition/include",
+        "-module-cache-path",
+        "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionTests.build/KMNavigationBarTransitionTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/Tests/KMNavigationBarTransitionTests/KMNavigationBarTransitionTests.swift"
+      ],
+      "tempsPath" : "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransitionTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "KMNavigationBarTransitionTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "KMNavigationBarTransitionTests",
+      "-incremental",
+      "-c",
+      "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/Tests/KMNavigationBarTransitionTests/KMNavigationBarTransitionTests.swift",
+      "-I",
+      "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-Xcc",
+      "-fmodule-map-file=/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/KMNavigationBarTransition.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/KMNavigationBarTransition/include",
+      "-module-cache-path",
+      "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "KMNavigationBarTransition" : [
+
+    ],
+    "KMNavigationBarTransitionTests" : [
+      "KMNavigationBarTransition"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}

@@ -1,0 +1,4 @@
+module KMNavigationBarTransition {
+    umbrella header "/Users/e-Qingcheng.Meng/Downloads/KMNavigationBarTransition/KMNavigationBarTransition/include/KMNavigationBarTransition.h"
+    export *
+}
